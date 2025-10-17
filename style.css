@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background: #004aad;
+  background: #3fad00;
   color: #fff;
   padding: 15px 30px;
   display: flex;
@@ -114,7 +114,7 @@ button:hover {
 
 footer {
   text-align: center;
-  background: #222;
+  background: #0b9e86;
   color: #ccc;
   padding: 15px;
   margin-top: 40px;
